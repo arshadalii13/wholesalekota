@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Kota Doria Suits",
+    "price": "575",
+    "category": "embroidery",
+    "description": "Top and duppta",
+    "id": "1773419052741",
+    "images": [
+      "images/1773419052744-871.jpeg",
+      "images/1773419054338-727.jpeg",
+      "images/1773419055941-250.jpeg",
+      "images/1773419057585-107.jpeg",
+      "images/1773419058567-810.jpeg",
+      "images/1773419060116-574.jpeg"
+    ]
+  }
+]
